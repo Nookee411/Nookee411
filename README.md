@@ -34,10 +34,6 @@ Full-stack developer passionate about building practical tools and exploring var
 
 ## Featured Projects
 
-### 🔐 [Password Generator 2.0](https://github.com/Nookee411/password-generator-2-0)
-
-Modern password generator built with React, Redux Toolkit, and Material-UI. Generate secure passwords with customizable options.
-
 ### 🔍 [Raycast Password Generator](https://github.com/Nookee411/raycast-password-generator)
 
 Simple and efficient password generator extension for Raycast launcher.
@@ -45,10 +41,6 @@ Simple and efficient password generator extension for Raycast launcher.
 ### 🦊 [Fuzzy Tabs Firefox](https://github.com/Nookee411/fuzzy-tabs-firefox)
 
 Firefox extension for fuzzy search through open tabs - enhance your browsing productivity.
-
-### ✅ [React Todo App](https://github.com/Nookee411/react-todo-app)
-
-Task management application using Redux state management and Material-UI components.
 
 ### 🎮 [Ball Physics JS](https://github.com/Nookee411/Ball-Physics-JS)
 
@@ -62,7 +54,8 @@ Calendar application for tracking sport events in Kirov.
 
 <div align="center">
 
-![Nookee411's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nookee411&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<!-- ![Nookee411's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nookee411&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true) -->
+<!---->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nookee411&layout=compact&theme=radical&hide_border=true)
 
