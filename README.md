@@ -17,22 +17,26 @@ Full-stack developer passionate about building practical tools and exploring var
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 ### Frontend
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat&logo=material-ui&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
 
 ### Backend & Tools
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Effect.ts](https://img.shields.io/badge/-effect.ts-000000?style=flat&logo=effect&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ## Featured Projects
+
+### 🔐 [Password Generator 2.0](https://github.com/Nookee411/password-generator-2-0)
+
+Modern password generator built with React, Redux Toolkit, and Material-UI. Generate secure passwords with customizable options.
 
 ### 🔍 [Raycast Password Generator](https://github.com/Nookee411/raycast-password-generator)
 
@@ -42,9 +46,17 @@ Simple and efficient password generator extension for Raycast launcher.
 
 Firefox extension for fuzzy search through open tabs - enhance your browsing productivity.
 
+### ✅ [React Todo App](https://github.com/Nookee411/react-todo-app)
+
+Task management application using Redux state management and Material-UI components.
+
 ### 🎮 [Ball Physics JS](https://github.com/Nookee411/Ball-Physics-JS)
 
 Interactive ball physics simulation with collision detection for rectangular areas.
+
+### 🏃 [Sport Events Calendar](https://github.com/Nookee411/Sport-event-apps)
+
+Calendar application for tracking sport events in Kirov.
 
 ## GitHub Stats
 
