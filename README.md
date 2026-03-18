@@ -33,7 +33,7 @@ Hi! I'm fullstack developer. I have 4+ years of experience working on different 
 
 ### [Raycast Password Generator](https://github.com/Nookee411/raycast-password-generator)
 
-Simple password generator extension for Raycast App. I've tired of using third party services, so desided to make my own extension with needed functionality.
+Simple password generator extension for Raycast App. I've tired of using third party services, so decided to make my own extension with needed functionality.
 
 ### [Fuzzy Tabs Firefox](https://github.com/Nookee411/fuzzy-tabs-firefox)
 
