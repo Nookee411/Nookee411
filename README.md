@@ -42,7 +42,7 @@ Tired of how bad switching between tabs in Zen Browser works, so decided to impl
 
 ### [Hono + Effect.ts Template](https://github.com/Nookee411/hono-template)
 
-Production-ready backend template combining Hono.js with Effect.ts ecosystem. Features TypeScript-first architecture with built-in database integration and authentication setup. Perfect starting point for type-safe, functional backend applications.
+Production-ready backend template combining Hono.js with Effect.ts ecosystem. Features TypeScript-first architecture with built-in database integration and authentication setup. Perfect starting point for type-safe, functional backend applications. If you want to remove boilerplate code, you can use this template.
 
 ## GitHub Stats
 
