@@ -33,27 +33,26 @@ Hi! I'm fullstack developer. I have 4+ years of experience working on different 
 
 ### [Raycast Password Generator](https://github.com/Nookee411/raycast-password-generator)
 
-Simple and efficient password generator extension for Raycast launcher.
+Simple password generator extension for Raycast App. I've tired of using third party services, so desided to make my own extension with needed functionality.
 
 ### [Fuzzy Tabs Firefox](https://github.com/Nookee411/fuzzy-tabs-firefox)
 
 Firefox extension for fuzzy search through open tabs - enhance your browsing productivity.
+Tired of how bad switching between tabs in Zen Browser works, so decided to implement my own vision.
 
-###
+### [Hono + Effect.ts Template](https://github.com/Nookee411/hono-template)
+
+Production-ready backend template combining Hono.js with Effect.ts ecosystem. Features TypeScript-first architecture with built-in database integration and authentication setup. Perfect starting point for type-safe, functional backend applications.
 
 ## GitHub Stats
+
+<div align="center">
 
 ![Nookee411's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nookee411&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nookee411&layout=compact&theme=radical&hide_border=true)
 
 </div>
-
-## Recent Activity
-
-- 🔧 Maintaining dotfiles configuration
-- 📦 Building backend templates with TypeScript
-- 🎯 Developing browser extensions and productivity tools
 
 ---
 
