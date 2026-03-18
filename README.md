@@ -44,6 +44,10 @@ Tired of how bad switching between tabs in Zen Browser works, so decided to impl
 
 Production-ready backend template combining Hono.js with Effect.ts ecosystem. Features TypeScript-first architecture with built-in database integration and authentication setup. Perfect starting point for type-safe, functional backend applications. If you want to remove boilerplate code, you can use this template.
 
+### [Infinite Alchemy](https://github.com/Nookee411/infinite-alchemy)
+
+Interactive alchemy game where you combine elements to discover new ones. Built with modern web technologies, this project demonstrates creative game mechanics and engaging user interactions. Start with basic elements and unlock hundreds of combinations in this addictive puzzle experience.
+
 ## GitHub Stats
 
 <div align="center">
