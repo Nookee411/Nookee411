@@ -52,8 +52,6 @@ Interactive alchemy game where you combine elements to discover new ones. Built 
 
 <div align="center">
 
-![Nookee411's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nookee411&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nookee411&layout=compact&theme=radical&hide_border=true)
 
 </div>
